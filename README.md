@@ -244,25 +244,6 @@ The dashboard highlights several areas for business analysis:
 
 ---
 
-## 📂 Project Structure
-
-```text
-E-Commerce-PowerBI-Dashboard/
-│
-├── E-Commerce-Dashboard.pbix
-├── README.md
-└── screenshots/
-    ├── home.png
-    ├── region-analysis.png
-    ├── shipping-cost-analysis.png
-    ├── insights.png
-    └── profit-driver-analysis.png
-```
-
-> Rename the `.pbix` file in the structure above to match the filename you upload to GitHub.
-
----
-
 ## 🚀 How to Use
 
 1. Download or clone this repository.
